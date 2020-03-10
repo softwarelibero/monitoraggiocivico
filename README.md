@@ -1,2 +1,2 @@
 # monitoraggiocivico
-Obiettivi di Monitoraggio Civico con Istruzioni d'Uso
+Progetto Software Libero - Monitoraggio Civico Uso e Riuso
