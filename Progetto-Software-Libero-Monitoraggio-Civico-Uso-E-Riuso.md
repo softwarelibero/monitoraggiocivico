@@ -1,8 +1,8 @@
-PROGETTO SOFTWARE LIBERO
+# PROGETTO SOFTWARE LIBERO
 
 Monitoraggio Civico Uso e Riuso
 
-Azione
+## Azione
 
 Attivare un'iniziativa comunitaria multi-stakeholder con lo scopo di
 generare un gruppo di attivismo dal basso che formulando richieste di
@@ -15,49 +15,49 @@ pubbliche amministrazioni"[^3] (di seguito "**Linee Guida**") e, nei
 casi di violazione delle norme con chiara conseguenza di danno
 all'erario, intervenga con esposti alla Corte dei Conti.
 
-Cosa fare
+## Cosa fare
 
 Per costruire l'azione, occorre:
 
-a\) realizzare un sito dell'iniziativa di call to action con un
+a) realizzare un sito dell'iniziativa di call to action con un
 brand/nome indipendente, sotto il quale raccogliere il
 supporto-firma-endorsement delle organizzazioni italiane interessate[^4]
 e che pubblica
 
--   un documento con informazione semplificata per tecnici e attivisti
-    sugli obblighi previsti dagli artt. 68 e 69 CAD e dalle Linee Guida
-    e su come dovrebbe comportarsi una PA;
--   una pagina con spiegazione semplificata su come monitorare se una PA
-    ha rispettato gli obblighi di valutazione comparativa e di
-    preferenza per il software libero ai sensi dell'art. 68 del CAD (con
-    template di istanze FOIA, tipologie di documenti da richiedere e
-    analizzare, ecc.);
--   una pagina con spiegazione semplificata su come richiedere a una PA
-    di distribuire un programma con licenza di software libero ai sensi
-    dell'art. 69 del CAD (con template di istanze FOIA e/o di richieste
-    ai sensi dell'art 69, co. 2, del CAD, ecc.);
--   una pagina con spiegazione semplificata su come valutare se sussiste
-    un danno erariale e su come inviare un esposto alla Corte dei Conti
-    (con template di esposti e istruzioni);
+  -   un documento con informazione semplificata per tecnici e attivisti
+      sugli obblighi previsti dagli artt. 68 e 69 CAD e dalle Linee Guida
+      e su come dovrebbe comportarsi una PA;
+  -   una pagina con spiegazione semplificata su come monitorare se una PA
+      ha rispettato gli obblighi di valutazione comparativa e di
+      preferenza per il software libero ai sensi dell'art. 68 del CAD (con
+      template di istanze FOIA, tipologie di documenti da richiedere e
+      analizzare, ecc.);
+  -   una pagina con spiegazione semplificata su come richiedere a una PA
+      di distribuire un programma con licenza di software libero ai sensi
+      dell'art. 69 del CAD (con template di istanze FOIA e/o di richieste
+      ai sensi dell'art 69, co. 2, del CAD, ecc.);
+  -   una pagina con spiegazione semplificata su come valutare se sussiste
+      un danno erariale e su come inviare un esposto alla Corte dei Conti
+      (con template di esposti e istruzioni);
 
-b\) realizzare strumenti comunitari di progetto
+b) realizzare strumenti comunitari di progetto
 
--   una chat aperta a tutti gli attivisti civici che vogliano
-    partecipare;
--   un forum su cui pubblicare tutte le richieste formulate, le analisi
-    di specifici bandi/forniture realizzate in modo collaborativo, così
-    da consentire la partecipazione e la pubblicazione in un flusso
-    unificato;
+  -   una chat aperta a tutti gli attivisti civici che vogliano
+      partecipare;
+  -   un forum su cui pubblicare tutte le richieste formulate, le analisi
+      di specifici bandi/forniture realizzate in modo collaborativo, così
+      da consentire la partecipazione e la pubblicazione in un flusso
+      unificato;
 
-c\) incaricare e dotare delle risorse necessarie un community manager di
+c) incaricare e dotare delle risorse necessarie un community manager di
 progetto ed incaricarlo di
 
--   contattare le organizzazioni interessate a supportare il progetto;
--   diffondere il progetto nei media e nei social;
--   supportare tecnici ed attivisti;
--   individuare come migliorare il contenuto del sito.
+  -   contattare le organizzazioni interessate a supportare il progetto;
+  -   diffondere il progetto nei media e nei social;
+  -   supportare tecnici ed attivisti;
+  -   individuare come migliorare il contenuto del sito.
 
-Il contesto
+## Il contesto
 
 L'obbligo di valutazione comparativa è previsto all'art. 68 del CAD sin
 dalla sua prima versione del 2005[^5].
@@ -138,7 +138,7 @@ sulla contrattualistica pubblica per le forniture informatiche[^14] e la
 Corte dei Conti con il Team Digitale[^15] (ANAC e AGID sono due centri
 di buona competenza in materia di software libero nella PA).
 
-**Obiettivo strategico**
+## Obiettivo strategico
 
 Attivare le parti della PA con più potere di persuasione (in
 particolare, la Corte dei Conti e l'ANAC) a monitorare in modo efficace
