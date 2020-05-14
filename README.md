@@ -58,7 +58,7 @@ L'art. 12, co. 1-ter del CAD stabilisce che l'attuazione delle norme del CAD cos
 
 Il quadro sanzionatorio è invece insoddisfacente, soprattutto perché i soggetti preposti a controllare e sanzionare (la Corte dei Conti e l'ANAC) hanno scarsa cultura sul tema.  
 
-Si può però sperare che le cose possano migliorare in futuro considerando che l'ANAC ha sottoscritto con [AGID un protocollo d'intesa sulla contrattualistica pubblica per le forniture informatiche](https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2016/05/02/anac-agid-vigilanza-sui-contratti-pubblici-beni-servizi-ict) e la [Corte dei Conti con il Team Digitale (ANAC e AGID sono due centri di buona competenza in materia di software libero nella PA)](https://www.agendadigitale.eu/cittadinanza-digitale/pa-digitale-il-senso-del-protocollo-corte-dei-conti-team-digitale-per-linnovazione/).
+Si può però sperare che le cose possano migliorare in futuro considerando che l'ANAC ha sottoscritto con [AGID un protocollo d'intesa sulla contrattualistica pubblica per le forniture informatiche](https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2016/05/02/anac-agid-vigilanza-sui-contratti-pubblici-beni-servizi-ict) e la [Corte dei Conti con il Team Digitale](https://www.agendadigitale.eu/cittadinanza-digitale/pa-digitale-il-senso-del-protocollo-corte-dei-conti-team-digitale-per-linnovazione/) (Team Digitale e AGID sono due centri di buona competenza in materia di software libero nella PA).
 
 ## Obiettivo strategico
 
