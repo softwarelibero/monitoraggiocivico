@@ -1,4 +1,4 @@
-## Cosa fare 
+## Cosa fare
 
 
 
@@ -18,8 +18,8 @@
 | Ha acquisito software proprietario | Ho la valutazione comparativa e vedo che rispetta i requisiti delle Linee Guida | [Pubblicazione su sito]( ) |
 | Ha acquisito software proprietario | Ho la valutazione comparativa e vedo che non rispetta i requisiti delle Linee Guida | [Pubblicazione su sito]( ) e [Segnalazione al Difensore civico per il digitale](https://www.agid.gov.it/it/agenzia/difensore-civico-il-digitale) |
 | Ha acquisito software proprietario | Ho la valutazione comparativa ma non so se rispetta i requisiti delle Linee Guida | [Pubblicazione su sito]( ) e [Contatta il supporto]( ) |
-| Ha realizzato un software ma non lo distribuisce con licenza libera | / | [Istanza art. 5 FOIA per chiedere il codice ai sensi dell'art. 69 CAD]( ) |
-| Non ha replicato all’istanza ex art. 5 FOIA entro 30 giorni | / | [Richiesta di riesame o reclamo]( ) |
-| Non ha replicato alla Diffida ad eseguire la valutazione comparativa entro 30 giorni | / | [Esposto alla Procura Regionale della Corte dei conti]( ) |
+| Ha realizzato del software ma non lo distribuisce con licenza libera | / | [Istanza art. 5 FOIA per chiedere il codice ai sensi dell'art. 69 CAD]( ) |
+| Non ha replicato all’istanza ex art. 5 FOIA entro 30 giorni | / | [Richiesta di riesame o reclamo]( ) [^c81ec515] |
+| Non ha replicato alla Diffida ad eseguire la valutazione comparativa entro 30 giorni | / | [Esposto alla Procura Regionale della Corte dei conti]( ) [^c81ec515]|
 
-
+[^c81ec515]: È possibile anche ricorrere al TAR, ma occorre l'assistenza di un avvocato e le spese possono essere rilevanti
